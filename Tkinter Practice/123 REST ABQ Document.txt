@@ -1,0 +1,53 @@
+Contents of simple application specification includes
+- Description
+- Functionality required
+- Functionality not required
+- Limitations
+- Data Dictionary
+
+the specification of application would have to refer to community reStructuredText markup language (reST).
+
+Example of a specification:
+
+====================================
+ABQ Data Entry Program specification
+====================================
+
+Description
+-----------
+Program is being created to -purpose
+
+Functionality Required
+----------------------
+The program must:
+* first point
+* second point
+    - a child list
+    - another child list
+* third point
+
+The program should try, whenever possible, to:
+* point
+* point
+* point
+
+Functionality not Required
+--------------------------
+The program does not need to:
+* point
+* point
+* point
+
+Limitations
+-----------
+The program must:
+* point
+* point
+* point
+
+Data Dictionary
+---------------
++-------+----------+-------+-------+-------------+
+| Field | Datatype | Units | Range | Description |
++=======+==========+=======+=======+=============+
+|               Records goes here                |
